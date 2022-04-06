@@ -1,8 +1,11 @@
 Hey, it's blonde 🇨🇴
 
-If str.blondemood = tired, sad
+If blondemood = tired, sad
+
 then blonde = reading
+
 If not 
+
 then blonde = programing
 
 Currently interested in javascript 
